@@ -54,7 +54,7 @@ npm install
 #### Configure Environment Variables
 Create a `.env` file in the `backend` directory and add the following:
 ```
-PORT=5000
+PORT=4000
 CLOUDINARY_NAME = your_cloudinary_name
 CLOUDINARY_API_KEY =your_cloudinary_api_key
 CLOUDINARY_SECRET_KEY = your_cloudinary_secret_key
