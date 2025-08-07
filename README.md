@@ -50,6 +50,11 @@ npm install
 cd frontend
 npm install
 ```
+##### admin
+```sh
+cd admin
+npm install
+```
 
 #### Configure Environment Variables
 Create a `.env` file in the `backend` directory and add the following:
